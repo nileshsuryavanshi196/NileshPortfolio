@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NileshPortfolio/static/css/main.0e182ce0.css",
-    "main.js": "/NileshPortfolio/static/js/main.ba1ee5f5.js",
+    "main.js": "/NileshPortfolio/static/js/main.c119e914.js",
     "static/js/453.ed3810f9.chunk.js": "/NileshPortfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/resume.pdf": "/NileshPortfolio/static/media/resume.da8d6549715c9e3f1559.pdf",
     "index.html": "/NileshPortfolio/index.html",
     "main.0e182ce0.css.map": "/NileshPortfolio/static/css/main.0e182ce0.css.map",
-    "main.ba1ee5f5.js.map": "/NileshPortfolio/static/js/main.ba1ee5f5.js.map",
+    "main.c119e914.js.map": "/NileshPortfolio/static/js/main.c119e914.js.map",
     "453.ed3810f9.chunk.js.map": "/NileshPortfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e182ce0.css",
-    "static/js/main.ba1ee5f5.js"
+    "static/js/main.c119e914.js"
   ]
 }
